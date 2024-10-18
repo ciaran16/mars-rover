@@ -1,0 +1,6 @@
+*.log
+
+# TypeScript
+node_modules
+dist
+tsconfig.vitest-temp.json
